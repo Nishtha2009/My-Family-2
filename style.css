@@ -1,0 +1,20 @@
+#fam {
+    width: 900px;
+    height: 500px;
+}
+
+.pics {
+    height: 250px;
+    width: 300px;
+}
+body{
+    text-align: center;
+}
+.md{
+    height: 600px;
+    width: 200px;
+} 
+.image responsive {
+    height: 250;
+    width: 500 ;
+}
